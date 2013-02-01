@@ -1,0 +1,40 @@
+.percentBar {
+    background: #2d1a00 url("../js/lib/onyx/images/gradient-invert.png") repeat-x 0 bottom;
+    background-size: 100% 100%;
+    -webkit-transition: all 0.5s ease;
+}
+
+.characterItem {
+    padding: 14px 10px 0px 5px;
+    vertical-align: middle;
+}
+
+.bloodied {
+    background-color: #5E2612;
+}
+
+.onyx-popup {
+    padding: 10px;
+}
+
+.onyx-popup input,
+.onyx-popup button {
+    display: block;
+    width: 100%;
+}
+
+.onyx-popup .onyx-input-decorator,
+.onyx-popup button {
+    margin: 5px;
+    
+}
+
+.onyx-toolbar,
+#mainArea {
+    background-color: #402500;
+    border-color: #261600;
+}
+
+#mainArea {
+    background-color: #916D3D;
+}

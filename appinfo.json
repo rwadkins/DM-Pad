@@ -1,0 +1,10 @@
+{
+    "id": "com.rwadkins.dmpad",
+    "version": "0.5.0",
+    "vendor": "rwadkins",
+    "type": "web",
+    "main": "index.html",
+    "title": "DM Pad",
+    "uiRevision": "2",
+    "icon": "icon.png"
+}

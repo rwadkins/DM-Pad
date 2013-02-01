@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>DM Pad</title>
+        <link rel="stylesheet" href="js/enyo/enyo.css" />
+        <script src="js/enyo/enyo.js"></script>
+        <script src="depends.js"></script>
+    </head>
+    <body>
+        <script type="text/javascript">
+            if (window.PalmSystem) {
+                window.PalmSystem.stageReady();
+            };      
+            new App().renderInto(document.body);
+        </script>
+    </body>
+</html>
